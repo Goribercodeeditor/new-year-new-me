@@ -113,6 +113,7 @@ header button {
     width: 160px;
     height: 64px;
     border-radius: 5px;
+    border: none;
     color: #005FAC;
     margin: -20px 0px 0px 59px;
 }
